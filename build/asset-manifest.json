@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02a85fa2.chunk.css",
+    "main.js": "/static/js/main.cf2e5a09.chunk.js",
+    "main.js.map": "/static/js/main.cf2e5a09.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf9f4589.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf9f4589.js.map",
+    "static/js/2.07da4ec1.chunk.js": "/static/js/2.07da4ec1.chunk.js",
+    "static/js/2.07da4ec1.chunk.js.map": "/static/js/2.07da4ec1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e40bffc74e04aa140af8a2101f373f6b.js": "/precache-manifest.e40bffc74e04aa140af8a2101f373f6b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.02a85fa2.chunk.css.map": "/static/css/main.02a85fa2.chunk.css.map",
+    "static/js/2.07da4ec1.chunk.js.LICENSE.txt": "/static/js/2.07da4ec1.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/illustration-section-02.f1a7db46.svg",
+    "static/media/fokusApp.png": "/static/media/fokusApp.98e671cb.png",
+    "static/media/fokusBox.png": "/static/media/fokusBox.bd8da4fb.png",
+    "static/media/labels.png": "/static/media/labels.9bc6ed46.png",
+    "static/media/logo.svg": "/static/media/logo.2aa2bd6e.svg",
+    "static/media/progressSummary.gif": "/static/media/progressSummary.9f66a979.gif",
+    "static/media/reOrder.gif": "/static/media/reOrder.ecaf540f.gif",
+    "static/media/sounds.png": "/static/media/sounds.fdc261dd.png",
+    "static/media/soundscapes.gif": "/static/media/soundscapes.52ff8b97.gif",
+    "static/media/summary.png": "/static/media/summary.817593bd.png",
+    "static/media/taskCreation.gif": "/static/media/taskCreation.f1e858b6.gif",
+    "static/media/tasks.png": "/static/media/tasks.a60bccbc.png",
+    "static/media/tasksDark.png": "/static/media/tasksDark.3bebddad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9f4589.js",
+    "static/js/2.07da4ec1.chunk.js",
+    "static/css/main.02a85fa2.chunk.css",
+    "static/js/main.cf2e5a09.chunk.js"
+  ]
+}
