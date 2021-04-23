@@ -31,7 +31,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Simple. Intuitive. Useful.',
+    title: 'How to use',
     paragraph: 'Fokus is all about getting your tasks done. Helping you to stop postponing or just making another todolist. It helps in getting the task done without being overly complicated and pushy.'
   };
 
@@ -51,11 +51,12 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Create your List
                   </h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                <ul className="m-0">
+                  <li>Add tasks, and assign time you want to spend on that task.</li> 
+                  <li>Add labels and reorder tasks according to priority</li>
+                </ul>
               </div>
               <div className={
                 classNames(
@@ -73,14 +74,15 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Fokus.Execute.Done.
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Time to work through the list now.
                   </h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  <ul className="m-0">
+                  <li>Pick a task. "Fokus" on it. This task will be your priority now.</li> 
+                  <li>Yes. Just the one step.</li>
+                </ul>
               </div>
               <div className={
                 classNames(
@@ -96,16 +98,48 @@ const FeaturesSplit = ({
             </div>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
+              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Fokus on one thing.
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Start task execution.
                   </h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  <ul className="m-0">
+                  <li>Start the task timer. "Fokus" on it.</li> 
+                  <li>Add more time to the task, incase required.</li>
+                  <li>Select a soothing soundscape as a reminder of the task in "fokus".</li>
+                  <li>Reset/Pause the timer in case there is some very urgent matter to tend to. </li>
+                </ul>
+              </div>
+              <div className={
+                classNames(
+                  'split-item-image center-content-mobile reveal-from-bottom',
+                )}
+                data-reveal-container=".split-item">
+                <Image
+                  src={require('./../../assets/images/soundscapes.gif')}
+                  alt="Features split 04"
+                  width={528}
+                  height={396} />
+              </div>
+            </div>
+
+
+            <div className="split-item">
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                  Simple.Intuitive.Amazing.
+                  </div>
+                <h3 className="mt-0 mb-12">
+                  Track progress easily.
+                  </h3>
+                <ul className="m-0">
+                <li>Fokus comes with a real time progress tracker that updates as you work through your tasks list</li> 
+                <li>Tracking progress both w.r.t time and total tasks count helps
+                   in maintaining momentum and peace of mind</li>
+              </ul>
+              
               </div>
               <div className={
                 classNames(
@@ -120,30 +154,6 @@ const FeaturesSplit = ({
               </div>
             </div>
 
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
-                  </div>
-                <h3 className="mt-0 mb-12">
-                  Data-driven insights
-                  </h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
-              </div>
-              <div className={
-                classNames(
-                  'split-item-image center-content-mobile reveal-from-bottom',
-                )}
-                data-reveal-container=".split-item">
-                <Image
-                  src={require('./../../assets/images/soundscapes.gif')}
-                  alt="Features split 04"
-                  width={528}
-                  height={396} />
-              </div>
-            </div>
 
           </div>
         </div>

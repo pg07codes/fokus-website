@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.02a85fa2.chunk.css",
-    "main.js": "/static/js/main.cf2e5a09.chunk.js",
-    "main.js.map": "/static/js/main.cf2e5a09.chunk.js.map",
+    "main.css": "/static/css/main.29bff34f.chunk.css",
+    "main.js": "/static/js/main.8f8e5028.chunk.js",
+    "main.js.map": "/static/js/main.8f8e5028.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bf9f4589.js",
     "runtime-main.js.map": "/static/js/runtime-main.bf9f4589.js.map",
     "static/js/2.07da4ec1.chunk.js": "/static/js/2.07da4ec1.chunk.js",
     "static/js/2.07da4ec1.chunk.js.map": "/static/js/2.07da4ec1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e40bffc74e04aa140af8a2101f373f6b.js": "/precache-manifest.e40bffc74e04aa140af8a2101f373f6b.js",
+    "precache-manifest.20bd56f497c7b1e4955e830fd4a0292c.js": "/precache-manifest.20bd56f497c7b1e4955e830fd4a0292c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.02a85fa2.chunk.css.map": "/static/css/main.02a85fa2.chunk.css.map",
+    "static/css/main.29bff34f.chunk.css.map": "/static/css/main.29bff34f.chunk.css.map",
     "static/js/2.07da4ec1.chunk.js.LICENSE.txt": "/static/js/2.07da4ec1.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/illustration-section-02.f1a7db46.svg",
     "static/media/fokusApp.png": "/static/media/fokusApp.98e671cb.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.bf9f4589.js",
     "static/js/2.07da4ec1.chunk.js",
-    "static/css/main.02a85fa2.chunk.css",
-    "static/js/main.cf2e5a09.chunk.js"
+    "static/css/main.29bff34f.chunk.css",
+    "static/js/main.8f8e5028.chunk.js"
   ]
 }

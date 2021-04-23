@@ -28,8 +28,8 @@ const FeaturesTiles =
   );
 
   const sectionHeader = {
-    title: 'Packed with awesomeness',
-    paragraph: 'Fokus is filled with amazing features that helps the user boost their productivity. Fokus is all about getting tasks done on time with focus. '
+    title: 'Structure your todolists with Fokus ',
+    paragraph: 'Fokus is filled with amazing features that helps the user boost their productivity. It helps you regain your clarity to actually focus and get tasks done instead of worrying about them all day. It\'s all about getting tasks done on time with focus. '
   };
 
   return (
@@ -58,9 +58,9 @@ const FeaturesTiles =
                     Create Timed Tasks
                     </h4>
                   <p className="m-0 text-sm">
-                    You assign each <b>task with a time</b> to complete it in. 
+                    You can assign each <b>task with a time</b> . 
                     Now, when you need to pick a task, <b>fokus</b> on it, start the <b>timer</b>
-                    and complete it before the timer goes off.  
+                    and complete it before the timer goes off. Add labels and reorder tasks according to priority.
                     </p>
                 </div>
               </div>
@@ -82,7 +82,7 @@ const FeaturesTiles =
                     Soundscapes
                     </h4>
                   <p className="m-0 text-sm">
-                    Play soothing soundscapes as you focus on a task to <b>improve concentration</b>. Also, it keeps you on track to get task done and acts as a gentle reminder of the tasks in <b>fokus</b>.
+                    Play soothing soundscapes as you focus on a task to <b>improve concentration</b> and helps you avoid external distractions. Also, it keeps you on track to get task done and acts as a gentle reminder of the task in <b>fokus</b>.
                     </p>
                 </div>
               </div>
@@ -126,7 +126,7 @@ const FeaturesTiles =
                     Fokus Timer
                     </h4>
                   <p className="m-0 text-sm">
-                    Choose a task to "fokus" on. <b>Start timer</b> and execute task. 
+                    Choose a task to "fokus" on. <b>Start timer</b> and execute task.
                     The countdown timer shows you the task under fokus, and the tasks' time left.
                     </p>
                 </div>
@@ -149,7 +149,7 @@ const FeaturesTiles =
                     Tasks' distribution
                     </h4>
                   <p className="m-0 text-sm">
-                    Assign <b>labels</b> to your tasks and the <b>Pie chart</b> beautifully visualizes the distribution. Also, we have a <b>daily quote</b> to motivate you for the day.
+                    Assign <b>labels</b> to your tasks and the <b>Pie chart</b> beautifully visualizes the distribution of your work and life balance. Also, fokus beings you a <b>daily quote</b> to motivate you for the day.
                     </p>
                 </div>
               </div>
@@ -171,7 +171,7 @@ const FeaturesTiles =
                     Dark Mode
                     </h4>
                   <p className="m-0 text-sm">
-                    How can we ignore this! Dark Mode is a must these days and Fokus brings in built Dark Mode for your users. It looks elegant and simply beautiful.
+                    Fokus comes with in-built Dark Mode. It looks elegant and simply beautiful, and also have less strain on eyes.
                     </p>
                 </div>
               </div>

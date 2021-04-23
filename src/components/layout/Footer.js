@@ -44,7 +44,11 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright">Created by <a href="https://pg07codes.github.io">Pranav Gupta</a>.</div>
+            <div className="footer-copyright">
+              Coded by <a href="https://pg07codes.github.io">Pranav Gupta</a>.
+              <br/>
+              Managed by Mridul Gupta.
+              </div>
           </div>
         </div>
       </div>

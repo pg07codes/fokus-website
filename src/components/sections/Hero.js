@@ -48,11 +48,11 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-32 mb-32 reveal-from-bottom" data-reveal-delay="200">
-              Get tasks done with <span className="text-color-primary">Fokus</span>
+            Gain time with <span className="text-color-primary">Fokus</span>
             </h1>
             <div className="container-s">
               <p className="mt-32 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                To put it simply, Fokus is a <b>todolist on Steroids</b>. It is <b>Free</b>, <b>Opensource</b>, Offline-first web application, and designed to respect users' privacy. Fokus helps the user to turn their long todo lists into tasks with pre-specified times, tracks users' progress and actually gets the work done with focus.
+                To put it simply, Fokus is a <b>todolist on Steroids</b>, packed with awesome features that help you work smarter and live happier. It is <b>Free</b>, <b>Opensource</b>, Offline-first web application, and designed to respect users' privacy. Fokus helps the user to turn their long todo lists into tasks with pre-specified times, tracks users' progress and actually gets the work done with focus.
                 </p>
                 <div style={{height:30}}></div>
               <div className="reveal-from-bottom" data-reveal-delay="600">
