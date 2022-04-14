@@ -28,7 +28,7 @@ const FooterNav = ({
           <a target="_blank" rel="noopener noreferrer" href="https://github.com/pg07codes/fokus/">Star on Github</a>
         </li>
         <li>
-          <a target="_blank" rel="noopener noreferrer" href="https://fokus-prototype.netlify.com">Open App</a>
+          <a target="_blank" rel="noopener noreferrer" href="https://fokusapp.netlify.app">Open App</a>
         </li>
       </ul>
     </nav>

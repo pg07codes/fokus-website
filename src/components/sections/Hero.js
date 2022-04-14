@@ -57,7 +57,7 @@ const Hero = ({
                 <div style={{height:30}}></div>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button style={{color:"#121212"}} tag="a" target="_blank" rel="noopener noreferrer"  color="primary" wideMobile href="https://fokus-prototype.netlify.com">
+                  <Button style={{color:"#121212"}} tag="a" target="_blank" rel="noopener noreferrer"  color="primary" wideMobile href="https://fokusapp.netlify.app">
                       Get Fokus
                     </Button>
                   <Button tag="a"target="_blank" rel="noopener noreferrer"  color="dark" wideMobile href="https://github.com/pg07codes/fokus/">
